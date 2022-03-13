@@ -4,6 +4,6 @@
 
 El desafío comienza el 14 de Marzo de 2022 y se publicará en abierto en este repositorio.
 
-_Nota: Solo los suscriptores de [danielprimo.io](https://www.danielprimo.io/) pueden optar a los cheques Amazon y regalos sorpresa por participar_
+_Nota: Solo los suscriptores de [danielprimo.io](https://www.danielprimo.io/) pueden optar a los cheques Amazon y regalos sorpresa por participar en el desafío._
 
 ![My Image](suerte.jpeg)
