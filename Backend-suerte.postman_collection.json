@@ -1,0 +1,43 @@
+{
+	"info": {
+		"_postman_id": "69758237-0fbf-4ee7-8a45-bed488984c3e",
+		"name": "Backend-suerte",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Select emoji",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "apikey",
+						"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNpdHNzaWFrcnFhYnVuZnFlbHN2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE2NDcyMDc2NTYsImV4cCI6MTk2Mjc4MzY1Nn0._6gXzN4548lF7hHT8M_dyqPLF1qbQ1o2nzjFQ_8Gy3A",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "https://citssiakrqabunfqelsv.supabase.co/rest/v1/emoji_db?id=eq.1",
+					"protocol": "https",
+					"host": [
+						"citssiakrqabunfqelsv",
+						"supabase",
+						"co"
+					],
+					"path": [
+						"rest",
+						"v1",
+						"emoji_db"
+					],
+					"query": [
+						{
+							"key": "id",
+							"value": "eq.1"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
