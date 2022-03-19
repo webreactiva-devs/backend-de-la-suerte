@@ -51,6 +51,13 @@ Al ser esta una prueba donde cada uno puede realizar el ejercicio como quiera lo
 2. Trabaja contra ese repositorio de forma independiente, no haremos uso del PR para unir las soluciones, las publicaremos como parte de este Readme
 3. Con cada reto tendrás que enviar una [Issue](https://github.com/malandrinersdev/backend-de-la-suerte/issues) indicando la dirección del repositorio con la solución
 
+## Participantes que han entregado al menos 1 reto
+
+| [skcode7](https://github.com/skcode7) | 
+| [yurigo](https://github.com/yurigo) | 
+| [prinhelmet](https://github.com/prinhelmet) |
+| [gabrim90](https://github.com/gabrim90) |
+| [imanolvalero](https://github.com/imanolvalero) |
 
 
 ## Primer reto: ¡Oro!
@@ -66,6 +73,7 @@ No vale insertarlo directamente en el frontend. Tiene que hacerse una llamada al
 Fecha límite: 23 de Marzo de 2022 a las 23:59 CET.
 
 La solución correcta serán 2 puntos. 
+
 
 
 > Este desafío forma parte de las actividades de la suscripción a [danielprimo.io](https://danielprimo.io)
