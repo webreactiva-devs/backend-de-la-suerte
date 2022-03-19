@@ -53,6 +53,8 @@ Al ser esta una prueba donde cada uno puede realizar el ejercicio como quiera lo
 
 ## Participantes que han entregado al menos 1 reto
 
+| |
+| --- |
 | [skcode7](https://github.com/skcode7) | 
 | [yurigo](https://github.com/yurigo) | 
 | [prinhelmet](https://github.com/prinhelmet) |
