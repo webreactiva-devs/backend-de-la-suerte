@@ -60,9 +60,10 @@ Al ser esta una prueba donde cada uno puede realizar el ejercicio como quiera lo
 | [prinhelmet](https://github.com/prinhelmet) |
 | [gabrim90](https://github.com/gabrim90) |
 | [imanolvalero](https://github.com/imanolvalero) |
+| [xurxof](https://github.com/xurxof) |
 
 
-## Primer reto: ¡Oro!
+## Primer reto: ¡Oro! 👑
 
 Has tenido suerte, ya has encontrado Oro a las primeras de cambio.
 
@@ -74,7 +75,80 @@ No vale insertarlo directamente en el frontend. Tiene que hacerse una llamada al
 
 Fecha límite: 23 de Marzo de 2022 a las 23:59 CET.
 
-La solución correcta serán 2 puntos. 
+
+### Reto 1: Reparto de puntos
+
+La solución correcta sumará 2 puntos en tu casillero.
+
+
+
+
+## Segundo reto: Pico y pala ⛏
+
+> Ahora tienes la primera pepita de oro, pero, ¡el backend tiene mas!
+
+
+### Parte básica
+
+Lo sabes y quieres conseguirlo.
+
+Así que llega el momento de sacar más oro. Pero para eso hay que sudar con el pico y pala. 😅
+
+El frontend no puede saber cuantas veces tienes que usar el pico para extraer el oro. Recuerda, en el frontend no hay secretos y nosotros tenemos muchos.
+
+El número de veces para picar es cosa del backend.
+
+
+Así que tienes que resolver un sistema en el backend que tras picar un número determinado de veces (entre 1 y 5) encuentre una nueva pepita de oro.
+
+👉 El número de veces a picar puede ser una constante siempre igual. También puede ser un número aleatorio generado cada vez que se reinicia el contador.
+
+👉 No es necesario tener un contador del número de pepitas de oro que has extraído.
+
+
+
+### Extra 1: Registra para no perder la pista
+
+> Hay más gente picando para sacar oro, ¿lo sabías?
+
+
+Es importante dejar bien marcado quién llega antes. Como aquellos que llegaron los primeros al Polo Sur.
+
+Así que cada vez que piques, deberás dejar guardado un registro de que lo has hecho. Guardando el momento temporal exacto en el que has picado.
+
+👉 Este dato no tiene porque verlo nadie más que tú, pero si tenerlo persistido en el backend.
+
+
+### Extra 2: Autenticación contra ladrones del montón
+
+> ¿Qué es eso de que pueda picar cualquiera? Hay seres invisibles que quieren robarnos nuestro oro...
+
+Por favor, necesitamos una autenticación que valide que somos nosotros los que vamos a picar.
+
+La autenticación puede ser cualquiera de estas (basta con una):
+
+- Solo contraseña
+- Email y contraseña
+- Servicio de terceros (Google, Twitter, Github)
+
+👉  Solo podrá picar el usuario que se autentifique.
+
+👉  La validación puede ser "no segura", pero no tiene que estar solo en el frontend. Tiene que pasar por el backend con la metodología que más te guste. Puede ser "no segura".
+
+### Reto 2: Reparto de puntos
+
+🟢 No es necesario completar los tres retos. Basta con el básico. 
+
+- Reto básico: 2 puntos
+- Extra 1: 2 puntos
+- Extra 2: 2 puntos
+
+Total posibles a conseguir en el reto: 6 puntos.
+
+
+### Plazo de entrega
+
+Quedan días ;)
 
 
 
