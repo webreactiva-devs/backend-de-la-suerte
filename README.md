@@ -148,7 +148,7 @@ Total posibles a conseguir en el reto: 6 puntos.
 
 ### Plazo de entrega
 
-Quedan días ;)
+30 de Marzo, a las 23:59 para la "Parte básica" del Reto 2.
 
 
 
