@@ -150,6 +150,8 @@ Total posibles a conseguir en el reto: 6 puntos.
 
 30 de Marzo, a las 23:59 para la "Parte básica" del Reto 2.
 
+Extra 1 y Extra 2 tendrán más días para poder ser presentados.
+
 
 
 > Este desafío forma parte de las actividades de la suscripción a [danielprimo.io](https://danielprimo.io)
