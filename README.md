@@ -24,6 +24,12 @@ El primer impacto del metal escupe polvo y miseria. Sabes que tienes que persist
 
 Se trata de trabajar con las herramientas que más te gusten y solo una impuesta: el backend.
 
+&nbsp;
+
+----
+
+&nbsp;
+
 ### Punto de inicio
 
 Hemos sorteado entre los participantes una lista de Backend-as-a-Service muy conocidas (casi todas). Cada uno de los desafiantes tendrá que ejecutar los retos del desafío usando el BaaS elegido.
@@ -70,6 +76,11 @@ Al ser esta una prueba donde cada uno puede realizar el ejercicio como quiera lo
 | [Esemega](https://github.com/Esemega) |
 | [Daniel-P-M](https://github.com/Daniel-P-M) |
 
+&nbsp;
+
+----
+
+&nbsp;
 
 ## Reto 1: ¡Oro! 👑
 
