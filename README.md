@@ -174,6 +174,6 @@ El límite final son las 18:45 CEST del Jueves 7 de Abril de 2022.
 | Reto 3 | 3 Abr | 7 Abr |
 
 
-
+![](backend-de-la-suerte-fechas.png)
 
 > Este desafío forma parte de las actividades de la suscripción a [danielprimo.io](https://danielprimo.io)
