@@ -113,7 +113,7 @@ Sumarás 2 más si la presentas antes del Miércoles 30 de Marzo a las 23:59 CES
 Total de puntos máximo posibles en este reto: 4
 
 
-## Reto 3: Registra y autentifica 👺
+## Reto 3: Registra y autentifica para que no te roben en la finca 👺
 
 ### Parte A: Registra para no perder la pista
 
