@@ -88,8 +88,11 @@ Fecha límite: 23 de Marzo de 2022 a las 23:59 CET.
 
 La solución correcta sumará 2 puntos en tu casillero.
 
+&nbsp;
 
+----
 
+&nbsp;
 
 ## Reto 2: Pico y pala ⛏
 
@@ -120,6 +123,11 @@ Sumarás 2 más si la presentas antes del Miércoles 30 de Marzo a las 23:59 CES
 
 Total de puntos máximo posibles en este reto: 4
 
+&nbsp;
+
+----
+
+&nbsp;
 
 ## Reto 3: Registra y autentifica para que no te roben en la finca 👺
 
@@ -162,6 +170,11 @@ Sumarás 2 puntos más en cada parte si la presentas antes del domingo 3 de Abri
 
 Total de puntos máximos posibles en este reto: 8.
 
+&nbsp;
+
+----
+
+&nbsp;
 
 # Plazos de entrega
 
@@ -175,5 +188,11 @@ El límite final son las 18:45 CEST del Jueves 7 de Abril de 2022.
 
 
 ![](backend-de-la-suerte-fechas.png)
+
+# Gran final de fiesta
+
+7 de Abril de 2022 a las 19:00 CEST en nuestro canal! 🥳
+
+
 
 > Este desafío forma parte de las actividades de la suscripción a [danielprimo.io](https://danielprimo.io)
