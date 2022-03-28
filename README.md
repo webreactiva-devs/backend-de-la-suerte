@@ -53,6 +53,8 @@ Al ser esta una prueba donde cada uno puede realizar el ejercicio como quiera lo
 
 ## Participantes que han entregado al menos 1 reto
 
+👉 [Ver issues](https://github.com/malandrinersdev/backend-de-la-suerte/issues)
+
 | |
 | --- |
 | [skcode7](https://github.com/skcode7) | 
@@ -61,6 +63,12 @@ Al ser esta una prueba donde cada uno puede realizar el ejercicio como quiera lo
 | [gabrim90](https://github.com/gabrim90) |
 | [imanolvalero](https://github.com/imanolvalero) |
 | [xurxof](https://github.com/xurxof) |
+| [agarciabz](https://github.com/agarciabz) |
+| [alexhermida](https://github.com/alexhermida) |
+| [garciatoscano](https://github.com/garciatoscano) |
+| [sergioedo](https://github.com/sergioedo) |
+| [Esemega](https://github.com/Esemega) |
+| [Daniel-P-M](https://github.com/Daniel-P-M) |
 
 
 ## Reto 1: ¡Oro! 👑
