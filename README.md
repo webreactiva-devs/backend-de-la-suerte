@@ -63,7 +63,7 @@ Al ser esta una prueba donde cada uno puede realizar el ejercicio como quiera lo
 | [xurxof](https://github.com/xurxof) |
 
 
-## Primer reto: ¡Oro! 👑
+## Reto 1: ¡Oro! 👑
 
 Has tenido suerte, ya has encontrado Oro a las primeras de cambio.
 
@@ -76,19 +76,18 @@ No vale insertarlo directamente en el frontend. Tiene que hacerse una llamada al
 Fecha límite: 23 de Marzo de 2022 a las 23:59 CET.
 
 
-### Reto 1: Reparto de puntos
+### Reparto de puntos del Reto 1
 
 La solución correcta sumará 2 puntos en tu casillero.
 
 
 
 
-## Segundo reto: Pico y pala ⛏
+## Reto 2: Pico y pala ⛏
 
 > Ahora tienes la primera pepita de oro, pero, ¡el backend tiene mas!
 
-
-### Parte básica
+> Nota: El reto 2 se ha dividido en dos partes. La básica pasa a ser el Reto 2 y los extras el Reto 3
 
 Lo sabes y quieres conseguirlo.
 
@@ -105,9 +104,18 @@ Así que tienes que resolver un sistema en el backend que tras picar un número 
 
 👉 No es necesario tener un contador del número de pepitas de oro que has extraído.
 
+### Reparto de puntos del Reto 2
+
+La solución correcta sumará 2 puntos en tu casillero. 
+
+Sumarás 2 más si la presentas antes del Miércoles 30 de Marzo a las 23:59 CEST.
+
+Total de puntos máximo posibles en este reto: 4
 
 
-### Extra 1: Registra para no perder la pista
+## Reto 3: Registra y autentifica 👺
+
+### Parte A: Registra para no perder la pista
 
 > Hay más gente picando para sacar oro, ¿lo sabías?
 
@@ -119,7 +127,7 @@ Así que cada vez que piques, deberás dejar guardado un registro de que lo has 
 👉 Este dato no tiene porque verlo nadie más que tú, pero si tenerlo persistido en el backend.
 
 
-### Extra 2: Autenticación contra ladrones del montón
+### Parte B: Autenticación contra ladrones del montón
 
 > ¿Qué es eso de que pueda picar cualquiera? Hay seres invisibles que quieren robarnos nuestro oro...
 
@@ -135,22 +143,28 @@ La autenticación puede ser cualquiera de estas (basta con una):
 
 👉  La validación puede ser "no segura", pero no tiene que estar solo en el frontend. Tiene que pasar por el backend con la metodología que más te guste. Puede ser "no segura".
 
-### Reto 2: Reparto de puntos
+### Reparto de puntos del Reto 3
 
 🟢 No es necesario completar los tres retos. Basta con el básico. 
 
-- Reto básico: 2 puntos
-- Extra 1: 2 puntos
-- Extra 2: 2 puntos
+- Parte A: 2 puntos
+- Parte B: 2 puntos
 
-Total posibles a conseguir en el reto: 6 puntos.
+Sumarás 2 puntos más en cada parte si la presentas antes del domingo 3 de Abril a las 23:59 CEST.
+
+Total de puntos máximos posibles en este reto: 8.
 
 
-### Plazo de entrega
+# Plazos de entrega
 
-30 de Marzo, a las 23:59 para la "Parte básica" del Reto 2.
+El límite final son las 18:45 CEST del Jueves 7 de Abril de 2022.
 
-Extra 1 y Extra 2 tendrán más días para poder ser presentados.
+| Reto | Con bonus | Sin bonus
+| --- | --- | --- |
+| Reto 1 | x | 7 Abr |
+| Reto 2 | 30 Mar | 7 Abr |
+| Reto 3 | 3 Abr | 7 Abr |
+
 
 
 
