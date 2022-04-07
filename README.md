@@ -63,18 +63,18 @@ Al ser esta una prueba donde cada uno puede realizar el ejercicio como quiera lo
 
 | Nick | Reto 1 | Reto 2 | Reto 3 | Directo | Total |
 | --- | --- | --- | --- | --- | -- |
-| [skcode7](https://github.com/skcode7) | 6 | 4 | x | x | x |
-| [yurigo](https://github.com/yurigo) | 6 | 4 | x | x |  x |
-| [prinhelmet](https://github.com/prinhelmet) | 6 | x | x | x |  x |
-| [gabrim90](https://github.com/gabrim90) | 6 | 4 | x | x |  x |
-| [imanolvalero](https://github.com/imanolvalero) | 6 | 4 | x | x |  x |
-| [xurxof](https://github.com/xurxof) | 6 | 2 | x | x |  x |
-| [agarciabz](https://github.com/agarciabz) | 6 | 4 | x | x |  x |
-| [alexhermida](https://github.com/alexhermida) | 6 | x | x | x |  x |
-| [garciatoscano](https://github.com/garciatoscano) | 6 | 4 | x | x |  x |
-| [sergioedo](https://github.com/sergioedo) | 6 | 4 | x | x |  x |
-| [Esemega](https://github.com/Esemega) | 6 | x | x | x |  x |
-| [Daniel-P-M](https://github.com/Daniel-P-M) | 6 | x | x | x |  x |
+| [skcode7](https://github.com/skcode7) | 6 | 4 | 8 | - | 18 |
+| [yurigo](https://github.com/yurigo) | 6 | 2 | 8 | - |  16 |
+| [prinhelmet](https://github.com/prinhelmet) | 6 | - | - | - |  6 |
+| [gabrim90](https://github.com/gabrim90) | 6 | 4 | 8 | - |  18 |
+| [imanolvalero](https://github.com/imanolvalero) | 6 | 4 | - | - |  10 |
+| [xurxof](https://github.com/xurxof) | 6 | 2 | 8 | - |  16 |
+| [agarciabz](https://github.com/agarciabz) | 6 | 4 | - | - |  10 |
+| [alexhermida](https://github.com/alexhermida) | 6 | - | - | - |  6 |
+| [garciatoscano](https://github.com/garciatoscano) | 6 | 4 | 8 | - |  18 |
+| [sergioedo](https://github.com/sergioedo) | 6 | 4 | 8 | - |  18 |
+| [Esemega](https://github.com/Esemega) | 6 | - | - | - |  6 |
+| [Daniel-P-M](https://github.com/Daniel-P-M) | 6 | - | - | - |  6 |
 
 &nbsp;
 
