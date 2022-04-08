@@ -9,6 +9,29 @@ Bienvenid@s a un nuevo reto de programación de la comunidad malandriner.
 
 Propondremos 3 retos en 3 semanas y remataremos con una sesión en directo prime para celebrar una nueva fiesta del código.
 
+## Participantes
+
+👉 [Ver issues](https://github.com/malandrinersdev/backend-de-la-suerte/issues)
+
+| Nick | Backend | Reto 1 | Reto 2 | Reto 3 | Directo | Total |
+| --- | --- | --- | --- | --- | --- | -- |
+| [skcode7](https://github.com/skcode7) | supabase | 6 | 4 | 8 | 4 | 22 |
+| [yurigo](https://github.com/yurigo) | nhost | 6 | 2 | 8 | 4 |  20 |
+| [prinhelmet](https://github.com/prinhelmet) | supabase | 6 | - | - | - |  6 |
+| [gabrim90](https://github.com/gabrim90) | supabase | 6 | 4 | 8 | 4 |  22 |
+| [imanolvalero](https://github.com/imanolvalero) | nhost | 6 | 4 | - | - |  10 |
+| [xurxof](https://github.com/xurxof) | directus | 6 | 2 | 8 | 4 |  20 |
+| [agarciabz](https://github.com/agarciabz) | directus | 6 | 4 | - | 4 |  14 |
+| [alexhermida](https://github.com/alexhermida) | supabase | 6 | - | - | - |  6 |
+| [garciatoscano](https://github.com/garciatoscano) | notion api | 6 | 4 | 8 | 4 |  22 |
+| [sergioedo](https://github.com/sergioedo) | strapi | 6 | 4 | 8 | 4 |  22 |
+| [Esemega](https://github.com/Esemega) | nhost | 6 | - | - | - |  6 |
+| [Daniel-P-M](https://github.com/Daniel-P-M) | notion api | 6 | - | - | - |  6 |
+
+&nbsp;
+
+----
+
 
 ## Te contaré una historia
 
@@ -57,28 +80,7 @@ Al ser esta una prueba donde cada uno puede realizar el ejercicio como quiera lo
 2. Trabaja contra ese repositorio de forma independiente, no haremos uso del PR para unir las soluciones, las publicaremos como parte de este Readme
 3. Con cada reto tendrás que enviar una [Issue](https://github.com/malandrinersdev/backend-de-la-suerte/issues) indicando la dirección del repositorio con la solución
 
-## Participantes que han entregado al menos 1 reto
-
-👉 [Ver issues](https://github.com/malandrinersdev/backend-de-la-suerte/issues)
-
-| Nick | Reto 1 | Reto 2 | Reto 3 | Directo | Total |
-| --- | --- | --- | --- | --- | -- |
-| [skcode7](https://github.com/skcode7) | 6 | 4 | 8 | - | 18 |
-| [yurigo](https://github.com/yurigo) | 6 | 2 | 8 | - |  16 |
-| [prinhelmet](https://github.com/prinhelmet) | 6 | - | - | - |  6 |
-| [gabrim90](https://github.com/gabrim90) | 6 | 4 | 8 | - |  18 |
-| [imanolvalero](https://github.com/imanolvalero) | 6 | 4 | - | - |  10 |
-| [xurxof](https://github.com/xurxof) | 6 | 2 | 8 | - |  16 |
-| [agarciabz](https://github.com/agarciabz) | 6 | 4 | - | - |  10 |
-| [alexhermida](https://github.com/alexhermida) | 6 | - | - | - |  6 |
-| [garciatoscano](https://github.com/garciatoscano) | 6 | 4 | 8 | - |  18 |
-| [sergioedo](https://github.com/sergioedo) | 6 | 4 | 8 | - |  18 |
-| [Esemega](https://github.com/Esemega) | 6 | - | - | - |  6 |
-| [Daniel-P-M](https://github.com/Daniel-P-M) | 6 | - | - | - |  6 |
-
-&nbsp;
-
-----
+------------
 
 &nbsp;
 
