@@ -32,6 +32,7 @@ Propondremos 3 retos en 3 semanas y remataremos con una sesión en directo prime
 
 ----
 
+&nbsp;
 
 ## Te contaré una historia
 
@@ -47,11 +48,6 @@ El primer impacto del metal escupe polvo y miseria. Sabes que tienes que persist
 
 Se trata de trabajar con las herramientas que más te gusten y solo una impuesta: el backend.
 
-&nbsp;
-
-----
-
-&nbsp;
 
 ### Punto de inicio
 
@@ -71,6 +67,10 @@ Cada reto se podrá resolver con la tecnología que más te guste salvo la parte
 En cada reto se ganan unos puntos si es superado.
 
 Los puntos se acumulan en la clasificación y son "boletos" para el sorteo de premios que se celebrará el día de cierre del desafío.
+
+------------
+
+&nbsp;
 
 ## Cómo participar en cada reto
 
